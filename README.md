@@ -1,6 +1,5 @@
 # Apex
 The future is your post in words
-# HELLO WORLD!
 
 ![about](https://user-images.githubusercontent.com/84265954/118392869-b61eef00-b633-11eb-9fa8-844e5bb8e0cf.jpg)
 
